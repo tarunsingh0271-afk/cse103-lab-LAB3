@@ -4,7 +4,7 @@
 CSE103 lab repository — LAB 3.
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit](https://img.shields.io/github/last-commit/[username]/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/tarunsingh0271-afk/cse103-lab-LAB3)
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
