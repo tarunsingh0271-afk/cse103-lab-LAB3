@@ -1,81 +1,41 @@
-# My First Repository
 
-## Description
-CSE103 lab repository — LAB 3.
-# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
+# [Your Full Name] — Developer Portfolio
 
-![Last Commit](https://img.shields.io/github/last-commit/tarunsingh0271-afk/cse103-lab-LAB3)
+> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
 
-![Language](https://img.shields.io/badge/language-Python-blue)
+---
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+## Repository Index
 
-## Overview
+| Repository | Description | Tech Stack | Status |
 
-This repository contains lab work for LAB 3 of the
+|------------|-------------|------------|--------|
 
-Computer Fundamentals & Career Pathways (CSE103) course at
+| [cse103-lab-LAB3](https://github.com/[username]/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting |
 
-K.R. Mangalam University, Gurugram.
+Git, Python, Bash | Active |
 
-## Repository Structure
+| [developer-portfolio](https://github.com/[username]/developer-portfolio) | This portfolio index | Markdown | Active
 
-```
+|
 
-cse103-lab-LAB3/
+---
 
-+-- README.md # Project documentation (this file)
+## Current Skills
 
-+-- CHANGELOG.md # Version history
+Python [█████░░░░░] 50%
 
-+-- main.py # Primary Python script
+Linux / Bash [████░░░░░░] 40%
 
-+-- .gitignore # Files excluded from Git tracking
+Git / GitHub [█████░░░░░] 50%
 
-```
+---
 
-## Skills Demonstrated
+## Learning Roadmap
 
-| Skill | Status |
+See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
 
-|----------------------|-------------|
+## Progress Tracker
 
-| Git initialisation | Completed |
+See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
 
-| Meaningful commits | Completed |
-
-| Remote push / pull | Completed |
-
-| Markdown docs | Completed |
-
-| API interaction | Completed |
-
-## How to Run
-
-```bash
-
-git clone https://github.com/[username]/cse103-lab-LAB3.git
-
-cd cse103-lab-LAB3
-
-python3 main.py
-
-```
-
-## Key Learning Outcomes
-
-- Configured Git identity and initialised local repositories
-
-- Created atomic commits with Conventional Commit messages
-
-- Pushed and pulled changes with a GitHub remote
-
-- Authored structured Markdown documentation
-
-## References
-
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-
-- [GitHub Skills](https://skills.github.com/)
-
-- [Markdown Guide](https://www.markdownguide.org/)
