@@ -1,5 +1,5 @@
 
-# [Your Full Name] — Developer Portfolio
+# Tarun Kumar — Developer Portfolio
 
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
 
